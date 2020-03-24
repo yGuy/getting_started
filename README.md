@@ -6,5 +6,6 @@ We use Matrix to communicate (https://matrix.org/). Riot is the standard client 
 How to get started:
 - Download Riot or start the web app: https://about.riot.im/downloads
 - Create an account on the free matrix.org homeserver
+- send us your username (something like @myusername:matrix.org)
 
 
